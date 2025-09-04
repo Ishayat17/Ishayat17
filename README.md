@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**Ishayat17/Ishayat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ishayat Arik Chowdhury, a Computer Science student at the University of Alberta
 
-Here are some ideas to get you started:
+🎓 Currently pursuing my Bachelor of Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in AI/ML, software development, and full-stack projects
+
+🚀 Always exploring new technologies and applying them to real-world problems
+
+🛠️ Languages & Frameworks
+
+Programming Languages
+
+🐍 Python
+
+☕ Java
+
+⚙️ C, C++
+
+🖥️ JavaScript 
+
+Frameworks & Tools
+
+🌐 React.js 
+
+🛠️ Node.js / Express 
+
+📱 Flutter 
+
+🗄️ MongoDB 
+
+📊 Pandas / NumPy 
+
+
+📫 Contact
+
+📧 Email: iachowdh@ualberta.ca
+
+🌐 Portfolio/Website: https://www.ishayat.xyz
