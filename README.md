@@ -1,11 +1,8 @@
 👋 About Me
 
-Hi, I’m Ishayat Arik Chowdhury, a Computer Science student at the University of Alberta
-
-🎓 Currently pursuing my Bachelor of Computer Science
+Hi, I’m Ishayat Arik Chowdhury, a 3rd year CS student at the University of Alberta
 
 💡 Interested in AI/ML, software development, and full-stack projects
-
 🚀 Always exploring new technologies and applying them to real-world problems
 
 🛠️ Languages & Frameworks
