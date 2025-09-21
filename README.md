@@ -1,4 +1,4 @@
-👋 About Me
+
 
 Hi, I’m Ishayat Arik Chowdhury, a 3rd year CS student at the University of Alberta
 
